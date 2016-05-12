@@ -6,7 +6,7 @@ tags:
 尝试使用hexo， 虽然不是很懂markdown，但是仿照实例写一点东西。
 
 ## 人工智能聊天机器人--小冰
-###CPS = 23 
+### CPS = 23 
 核心代码如下：
 ```bash
 ///this is a kernel module to add a syscall to the linux kernel
