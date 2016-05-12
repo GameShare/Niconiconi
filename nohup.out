@@ -1,0 +1,6 @@
+Native thread-sleep not available.
+This will result in much slower performance, but it will still work.
+You should re-install spawn-sync or upgrade to the lastest version of node if possible.
+Check /usr/lib/node_modules/hexo-cli/node_modules/spawn-sync/error.log for more details
+INFO  Start processing
+INFO  Hexo is running at http://localhost:2333/. Press Ctrl+C to stop.
